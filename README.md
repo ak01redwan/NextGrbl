@@ -1,5 +1,14 @@
 ![GitHub Logo](https://github.com/gnea/gnea-Media/blob/master/Grbl%20Logo/Grbl%20Logo%20250px.png?raw=true)
 ***
+### NextGrbl
+NextGrbl is an improved version of Grbl. It starts with NextGrbl v1.1, which is functionally identical to the original Grbl v1.1. However, future versions of NextGrbl will offer enhancements over the original software.
+
+Here's how NextGrbl manages its development:
+
+    Each new enhanced version is created in a separate branch on GitHub.
+    Each branch includes a detailed description of the specific improvements it offers.
+
+This branching strategy allows for clear organization and easy tracking of the ongoing development process.
 
 ### Grbl v1.1 has been released [here](https://github.com/gnea/grbl/releases)!
 ### Notice: This site will be phased out and moved to the new one!
